@@ -1,2 +1,192 @@
 
 categories:
+          
+    - name: Advertisements
+      projects:
+        - name: AdMob
+          url: http://www.google.com/ads/admob/
+        - name: Google Mobile Ads SDK
+          url: https://developers.google.com/mobile-ads-sdk/
+        - name: InMobi
+          url: http://www.inmobi.com
+        - name: MoPub
+          url: http://www.mopub.com
+        - name: Tapjoy
+          url: http://home.tapjoy.com
+
+    - name: Analytics
+      projects:
+        - name: AT Internet
+          url: http://www.atinternet.com/en/product/mobile-analytics/
+        - name: Google Analytics
+          url: https://developers.google.com/analytics/devguides/collection/android/
+                    
+    - name: Audio
+      projects:
+        - name: EZAudio
+          url: https://github.com/syedhali/EZAudio
+      
+    - name: Automation Testing
+      projects:
+        - name: Frank
+          url: http://www.testingwithfrank.com/
+        - name: KIF
+          url: https://github.com/square/KIF
+
+    - name: Backports
+      projects:
+        - name: UI7Kit
+          url: https://github.com/youknowone/UI7Kit
+        - name: iOS7 Backport
+          url: https://github.com/RolandasRazma/RRiOS7Backport
+        - name: RRAutoLayout
+          url: https://github.com/RolandasRazma/RRAutoLayout
+
+    - name: Bar Codes
+      projects:
+        - name: ZXing
+          url: http://code.google.com/p/zxing/
+        - name: ZBar
+          url: http://zbar.sourceforge.net
+          
+    - name: Caching
+      projects:
+        - name: SDURLCache
+          url: https://github.com/steipete/SDURLCache
+        - name: SDWebImage
+          url: https://github.com/rs/SDWebImage
+          
+    - name: Calendars
+      projects:
+        - name: Kal
+          url: https://github.com/klazuka/Kal
+        - name: ABCalendarPicker
+          url: https://github.com/k06a/ABCalendarPicker
+
+    - name: CoverFlow
+      projects:
+        - name: iCarousel
+          url: https://github.com/nicklockwood/iCarousel
+                
+    - name: Crash Reports
+      projects:
+        - name: Crashlytics
+          url: https://crashlytics.com
+        - name: HockeyKit
+          url: http://hockeykit.net/
+          
+    - name: Curl/Flip Effects
+      projects:
+        - name: XBPageCurl
+          url: https://github.com/xissburg/XBPageCurl
+    
+    - name: Graphics
+      projects:
+        - name: CorePlot
+          url: https://code.google.com/p/core-plot/
+        - name: JBChartView
+          url: https://github.com/Jawbone/JBChartView
+
+    - name: IDE
+      projects:
+        - name: JetBrains AppCode
+          url: http://www.jetbrains.com/objc/
+          
+    - name: IDE Plugins
+      projects:
+        - name: Alcatraz
+          url: http://alcatraz.io/
+
+    - name: Image processing
+      projects:
+        - name: GPUImage
+          url: https://github.com/BradLarson/GPUImage
+
+    - name: JSON
+      projects:
+        - name: JSONKit
+          url: https://github.com/johnezang/JSONKit
+      
+    - name: KVO
+      projects:
+        - name: ReactiveCocoa
+          url: https://github.com/ReactiveCocoa/ReactiveCocoa
+
+    - name: Layouts
+      projects:
+        - name: NUI
+          url: https://github.com/noveogroup/ios-nui
+          
+    - name: Maps
+      projects:
+        - name: Google Maps SDK
+          url: https://developers.google.com/maps/documentation/ios/start
+        - name: Yandex Map Kit
+          url: https://github.com/yandexmobile/yandexmapkit-ios
+        - name: MapBox
+          url: https://www.mapbox.com/mapbox-ios-sdk/
+
+    - name: Networking
+      projects:
+        - name: RestKit
+          url: http://restkit.org/
+        - name: AFNetworking
+          url: https://github.com/afnetworking/afnetworking
+        - name: SDWebImage
+          url: https://github.com/rs/SDWebImage
+        - name: SocketRocket
+          url: https://github.com/square/SocketRocket
+    
+    - name: Progress Indicators
+      projects:
+        - name: MBProgressHUD
+          url: https://github.com/jdg/MBProgressHUD
+
+    - name: Pull To Refresh
+      projects:
+        - name: EGOTableViewPullRefresh
+          url: https://github.com/enormego/EGOTableViewPullRefresh
+
+    - name: Side Menu
+      projects:
+        - name: ViewDeck
+          url: https://github.com/Inferis/ViewDeck
+
+    - name: Social Networks
+      projects:
+        - name: ShareKit
+          url: http://getsharekit.com/
+        - name: Facebook
+          url: https://github.com/facebook/facebook-ios-sdk
+        - name: Twitter
+          url: https://dev.twitter.com/docs/twitter-libraries#objectivec
+        - name: VKontakte
+          url: https://github.com/VKCOM/vk-ios-sdk
+
+    - name: SVG
+      projects:
+        - name: SVGQuartzRenderer
+          url: https://github.com/splashdust/SVGQuartzRenderer
+        - name: SVGKit
+          url: https://github.com/SVGKit/SVGKit
+
+    - name: Text
+      projects:
+        - name: TTTAttributedLabel
+          url: https://github.com/mattt/TTTAttributedLabel
+        - name: OHAttributedLabel
+          url: https://github.com/AliSoftware/OHAttributedLabel
+        - name: DTCoreText
+          url: https://github.com/Cocoanetics/DTCoreText
+          
+    - name: Utils
+      projects:
+        - name: TestFlight
+          url: https://testflightapp.com/
+        - name: CocoaPods
+          url: http://cocoapods.org/
+
+    - name: XML
+      projects:
+        - name: TouchXML
+          url: https://github.com/TouchCode/TouchXML
